@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+keras_vgg_face_graph.h5
+tensorflow_vgg_face_graph.pb
+vgg_face_weights.h5
